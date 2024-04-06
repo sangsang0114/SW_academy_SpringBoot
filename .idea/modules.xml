@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SW_academy_SpringBoot.iml" filepath="$PROJECT_DIR$/SW_academy_SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootPjt01.iml" filepath="$PROJECT_DIR$/SpringBootPjt01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt01.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt01.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt01.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt01.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootPjt02_MyBatis_MySQL.iml" filepath="$PROJECT_DIR$/SpringBootPjt02_MyBatis_MySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt02_MyBatis_MySQL.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt02_MyBatis_MySQL.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt02_MyBatis_MySQL.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt02_MyBatis_MySQL.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootPjt03_MyBatis_xml_MySQL.iml" filepath="$PROJECT_DIR$/SpringBootPjt03_MyBatis_xml_MySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt03_MyBatis_xml_MySQL.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt03_MyBatis_xml_MySQL.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt03_MyBatis_xml_MySQL.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt03_MyBatis_xml_MySQL.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootPjt04_RestAPI.iml" filepath="$PROJECT_DIR$/SpringBootPjt04_RestAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt04_RestAPI.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt04_RestAPI.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt04_RestAPI.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt04_RestAPI.test.iml" />
+    </modules>
+  </component>
+</project>

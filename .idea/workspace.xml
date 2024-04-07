@@ -4,21 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f82d4a-6817-4aac-9a10-84a15509791d" name="Changes" comment="SpringBootPjt 04 생성">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringBootPjt05_hibernate_H2DB.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringBootPjt05_hibernate_H2DB.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB/src/main/java/org/yoon/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB/src/main/java/org/yoon/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB/src/main/java/org/yoon/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB/src/main/java/org/yoon/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB/src/main/resources/data.sql" afterDir="false" />
+    <list default="true" id="72f82d4a-6817-4aac-9a10-84a15509791d" name="Changes" comment="SpringBootPjt 05 생성">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringBootPjt06_hibernate_MySQL.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringBootPjt06_hibernate_MySQL.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL/src/main/java/org/yoon/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL/src/main/java/org/yoon/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL/src/main/java/org/yoon/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL/src/main/java/org/yoon/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL/src/main/java/org/yoon/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -48,6 +48,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL">
       <ProjectState />
     </projectState>
   </component>
@@ -109,18 +112,19 @@
     "Spring Boot.Main (1).executor": "Run",
     "Spring Boot.Main.executor": "Run",
     "Spring Boot.Pjt03.executor": "Run",
+    "Spring Boot.pjt05.executor": "Run",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IdeaProjects/test",
+    "last_opened_file_path": "C:/Users/Yoon/IdeaProjects/SW_academy_SpringBoot/SpringBootPjt06_hibernate_MySQL/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Yoon/IdeaProjects/SW_academy_SpringBoot/SpringBootPjt05_hibernate_H2DB/src/main/java/org/yoon/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Yoon/IdeaProjects/SW_academy_SpringBoot/SpringBootPjt06_hibernate_MySQL/src/main/java/org/yoon/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -129,22 +133,23 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yoon\IdeaProjects\SW_academy_SpringBoot\SpringBootPjt06_hibernate_MySQL\src\main\resources" />
+      <recent name="C:\Users\Yoon\IdeaProjects\SW_academy_SpringBoot\SpringBootPjt06_hibernate_MySQL" />
+      <recent name="C:\Users\Yoon\IdeaProjects\SW_academy_SpringBoot\SpringBootPjt05_hibernate_H2DB" />
       <recent name="C:\Users\Yoon\IdeaProjects\SW_academy_SpringBoot\SpringBootPjt04_RestAPI" />
       <recent name="C:\Users\Yoon\IdeaProjects\SW_academy_SpringBoot\SpringBootPjt03_MyBatis_xml_MySQL\src\main\java\org\yoon" />
-      <recent name="C:\Users\Yoon\IdeaProjects\SW_academy_SpringBoot\SpringBootPjt03_MyBatis_xml_MySQL\src\main\resources" />
-      <recent name="C:\Users\Yoon\IdeaProjects\SW_academy_SpringBoot\SpringBootPjt03_MyBatis_xml_MySQL" />
-      <recent name="C:\Users\Yoon\IdeaProjects\SW_academy_SpringBoot\SpringBootPjt02_MyBatis_MySQL" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Yoon\IdeaProjects\SW_academy_SpringBoot\SpringBootPjt05_hibernate_H2DB\src\main\resources" />
       <recent name="C:\Users\Yoon\IdeaProjects\SW_academy_SpringBoot\SpringBootPjt01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.yoon" />
       <recent name="org.yoon.controller" />
       <recent name="org.yoon.mapper" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.pjt05">
+  <component name="RunManager" selected="Spring Boot.pjt06">
     <configuration name="Pjt03" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="SpringBootPjt03_MyBatis_xml_MySQL.main" />
@@ -186,7 +191,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pjt06" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBootPjt06_hibernate_MySQL.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.yoon.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.yoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Spring Boot.pjt06" />
       <item itemvalue="Spring Boot.pjt04" />
       <item itemvalue="Spring Boot.pjt05" />
       <item itemvalue="Spring Boot.Pjt03" />
@@ -218,7 +237,7 @@
       <workItem from="1711862726544" duration="5676000" />
       <workItem from="1711974232102" duration="338000" />
       <workItem from="1712410143445" duration="1273000" />
-      <workItem from="1712467416799" duration="586000" />
+      <workItem from="1712467416799" duration="863000" />
     </task>
     <task id="LOCAL-00001" summary="SpringBootPjt 01 생성">
       <option name="closed" value="true" />
@@ -300,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712411336163</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="SpringBootPjt 05 생성">
+      <option name="closed" value="true" />
+      <created>1712468075958</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712468075958</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,6 +349,7 @@
     <MESSAGE value="SpringBootPjt 02 생성" />
     <MESSAGE value="SpringBootPjt 03 생성" />
     <MESSAGE value="SpringBootPjt 04 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringBootPjt 04 생성" />
+    <MESSAGE value="SpringBootPjt 05 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringBootPjt 05 생성" />
   </component>
 </project>

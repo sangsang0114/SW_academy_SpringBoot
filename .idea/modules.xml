@@ -18,6 +18,9 @@
       <module fileurl="file://$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB.iml" filepath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt05_hibernate_H2DB.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt05_hibernate_H2DB.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt05_hibernate_H2DB.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt05_hibernate_H2DB.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL.iml" filepath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt06_hibernate_MySQL.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt06_hibernate_MySQL.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt06_hibernate_MySQL.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt06_hibernate_MySQL.test.iml" />
     </modules>
   </component>
 </project>

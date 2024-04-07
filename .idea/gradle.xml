@@ -53,6 +53,16 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

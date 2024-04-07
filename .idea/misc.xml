@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/SpringBootPjt02_MyBatis_MySQL" />
     <file type="web" url="file://$PROJECT_DIR$/SpringBootPjt03_MyBatis_xml_MySQL" />
     <file type="web" url="file://$PROJECT_DIR$/SpringBootPjt04_RestAPI" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

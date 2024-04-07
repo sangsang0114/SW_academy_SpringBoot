@@ -15,6 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/SpringBootPjt04_RestAPI.iml" filepath="$PROJECT_DIR$/SpringBootPjt04_RestAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt04_RestAPI.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt04_RestAPI.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt04_RestAPI.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt04_RestAPI.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB.iml" filepath="$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt05_hibernate_H2DB.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt05_hibernate_H2DB.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt05_hibernate_H2DB.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt05_hibernate_H2DB.test.iml" />
     </modules>
   </component>
 </project>

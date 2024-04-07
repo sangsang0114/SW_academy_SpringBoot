@@ -21,6 +21,9 @@
       <module fileurl="file://$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL.iml" filepath="$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt06_hibernate_MySQL.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt06_hibernate_MySQL.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt06_hibernate_MySQL.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt06_hibernate_MySQL.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootPjt07_Login_Session.iml" filepath="$PROJECT_DIR$/SpringBootPjt07_Login_Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt07_Login_Session.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt07_Login_Session.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootPjt07_Login_Session.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootPjt07_Login_Session.test.iml" />
     </modules>
   </component>
 </project>

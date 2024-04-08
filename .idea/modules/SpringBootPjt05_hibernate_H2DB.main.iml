@@ -10,9 +10,6 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
     <output url="file://$MODULE_DIR$/../../SpringBootPjt05_hibernate_H2DB/build/classes/java/main" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../SpringBootPjt05_hibernate_H2DB/build/generated/sources/annotationProcessor/java/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../SpringBootPjt05_hibernate_H2DB/build/generated/sources/annotationProcessor/java/main" isTestSource="false" generated="true" />
-    </content>
     <content url="file://$MODULE_DIR$/../../SpringBootPjt05_hibernate_H2DB/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../SpringBootPjt05_hibernate_H2DB/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../SpringBootPjt05_hibernate_H2DB/src/main/resources" type="java-resource" />

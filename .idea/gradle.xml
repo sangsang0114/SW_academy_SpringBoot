@@ -73,6 +73,16 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBootPjt08_Login_Session_SpringSecurity" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBootPjt08_Login_Session_SpringSecurity" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

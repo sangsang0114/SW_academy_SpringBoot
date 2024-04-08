@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f82d4a-6817-4aac-9a10-84a15509791d" name="Changes" comment="SpringBootPjt 06 생성">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringBootPjt07_Login_Session.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/SpringBootPjt07_Login_Session.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt07_Login_Session.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt07_Login_Session/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt07_Login_Session/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt07_Login_Session/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt07_Login_Session/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt07_Login_Session/src/main/java/org/yoon/Mem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt07_Login_Session/src/main/java/org/yoon/MemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt07_Login_Session/src/main/java/org/yoon/MemMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt07_Login_Session/src/main/java/org/yoon/MemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootPjt07_Login_Session/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="72f82d4a-6817-4aac-9a10-84a15509791d" name="Changes" comment="SpringBootPjt 08 생성" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +35,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/SpringBootPjt07_Login_Session">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/SpringBootPjt08_Login_Session_SpringSecurity">
       <ProjectState />
     </projectState>
   </component>
@@ -102,6 +88,7 @@
     "Gradle.Build SpringBootPjt04_RestAPI.executor": "Run",
     "Gradle.Build SpringBootPjt05_hibernate_H2DB.executor": "Run",
     "Gradle.Build SpringBootPjt06_hibernate_MySQL.executor": "Run",
+    "Gradle.Build SpringBootPjt08_Login_Session_SpringSecurity.executor": "Run",
     "Gradle.Tests in 'SpringBootPjt03_MyBatis_xml_MySQL'.executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
@@ -113,14 +100,16 @@
     "Spring Boot.Main (1).executor": "Run",
     "Spring Boot.Main.executor": "Run",
     "Spring Boot.Pjt03.executor": "Run",
+    "Spring Boot.Pjt08.executor": "Run",
     "Spring Boot.pjt05.executor": "Run",
     "Spring Boot.pjt06.executor": "Run",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "ignore_missing_gitignore": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Yoon/IdeaProjects/SW_academy_SpringBoot/SpringBootPjt06_hibernate_MySQL/src/main/resources",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/SW_academy_SpringBoot/SpringBootPjt08_Login_Session_SpringSecurity",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -151,7 +140,20 @@
       <recent name="org.yoon.mapper" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.pjt07">
+  <component name="RunManager" selected="Spring Boot.Pjt08">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SpringBootPjt05_hibernate_H2DB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SpringBootPjt05_hibernate_H2DB" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Pjt03" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="SpringBootPjt03_MyBatis_xml_MySQL.main" />
@@ -166,9 +168,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pjt08" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="SpringBootPjt08_Login_Session_SpringSecurity.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pjt04" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="SpringBootPjt04_RestAPI.main" />
+      <module name="SpringBootPjt03_MyBatis_xml_MySQL.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.yoon.Main" />
       <extension name="coverage">
         <pattern>
@@ -194,7 +210,7 @@
       </method>
     </configuration>
     <configuration name="pjt06" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="SpringBootPjt06_hibernate_MySQL.main" />
+      <module name="SpringBootPjt05_hibernate_H2DB.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.yoon.Main" />
       <extension name="coverage">
         <pattern>
@@ -221,6 +237,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.Pjt08" />
       <item itemvalue="Spring Boot.pjt06" />
       <item itemvalue="Spring Boot.pjt07" />
       <item itemvalue="Spring Boot.pjt04" />
@@ -360,7 +377,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712468564071</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="SpringBootPjt 08 생성">
+      <option name="closed" value="true" />
+      <created>1712539578731</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712539578731</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,6 +409,7 @@
     <MESSAGE value="SpringBootPjt 04 생성" />
     <MESSAGE value="SpringBootPjt 05 생성" />
     <MESSAGE value="SpringBootPjt 06 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringBootPjt 06 생성" />
+    <MESSAGE value="SpringBootPjt 08 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringBootPjt 08 생성" />
   </component>
 </project>

@@ -10,10 +10,7 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
     <output-test url="file://$MODULE_DIR$/../../SpringBootPjt06_hibernate_MySQL/build/classes/java/test" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../SpringBootPjt06_hibernate_MySQL/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../SpringBootPjt06_hibernate_MySQL/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../SpringBootPjt06_hibernate_MySQL/src/test/resources" type="java-test-resource" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../SpringBootPjt06_hibernate_MySQL/src/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="SpringBootPjt06_hibernate_MySQL.main" />

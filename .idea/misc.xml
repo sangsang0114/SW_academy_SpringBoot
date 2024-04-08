@@ -8,6 +8,7 @@
     <file type="web" url="file://$PROJECT_DIR$/SpringBootPjt05_hibernate_H2DB" />
     <file type="web" url="file://$PROJECT_DIR$/SpringBootPjt06_hibernate_MySQL" />
     <file type="web" url="file://$PROJECT_DIR$/SpringBootPjt07_Login_Session" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringBootPjt08_Login_Session_SpringSecurity" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
